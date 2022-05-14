@@ -1,0 +1,37 @@
+* {
+margin:0;
+padding:0;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+  }
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header_top{
+    background-color: #222222;
+    height: 75px;
+}
+
+.header_bottom{
+    height: 764px;
+    background: #F1E4E6;
+}
+
+.maga-box{
+    padding: 33px;
+    position: absolute;
+}
