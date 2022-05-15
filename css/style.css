@@ -21,10 +21,14 @@ padding:0;
     background-color: #ccc;
 }
 
-
 .container{
-    width: 1200px;
+    width: 1140px;
     margin: 0 auto;
+}
+
+.banner{
+    height: 764px;
+    background: #F1E4E6;
 }
 
 .header_top{
