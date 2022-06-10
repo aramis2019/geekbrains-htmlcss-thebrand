@@ -21,6 +21,19 @@ padding:0;
     background-color: #ccc;
 }
 
+.main-header-nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation-list{
+    display: flex;
+}
+
+.navigation-link{
+    list-style-type: none;
+}
+
 .container{
     width: 1140px;
     margin: 0 auto;
