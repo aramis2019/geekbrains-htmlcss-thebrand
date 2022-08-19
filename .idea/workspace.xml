@@ -21,15 +21,10 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Projects/GitHub/aramis2019/geekbrains-htmlcss-thebrand",
-    "vue.rearranger.settings.migration": "true"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\GitHub\aramis2019\geekbrains-htmlcss-thebrand\img" />
@@ -46,6 +41,7 @@
       <workItem from="1652528488777" duration="2895000" />
       <workItem from="1652531843959" duration="8964000" />
       <workItem from="1652696394652" duration="2836000" />
+      <workItem from="1657805156303" duration="24000" />
     </task>
     <servers />
   </component>

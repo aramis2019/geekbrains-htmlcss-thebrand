@@ -1,8 +1,10 @@
 * {
-margin:0;
-padding:0;
-}
-
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+  }
+  
 .visually-hidden {
     position: absolute;
     width: 1px;
@@ -26,9 +28,16 @@ padding:0;
     justify-content: space-between;
 }
 
-.navigation-list{
+.header-right{
     display: flex;
+    justify-content: space-between;
 }
+
+.header-left{
+    display: flex;
+    justify-content: space-between;
+}
+
 
 .navigation-link{
     list-style-type: none;
